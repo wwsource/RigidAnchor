@@ -1,2 +1,3 @@
 # RigidAnchor
-[Arxiv 2026] RigidAnchor: Cross-View Geo-Localization for UAV  via Iterative Planar Rigid Alignment
+
+The code will be released after the paper is accepted.
