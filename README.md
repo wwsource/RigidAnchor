@@ -1,7 +1,7 @@
 
 # RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment
 This repository contains the source code for our paper:
-- RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment (Arxiv 2026)
+- RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment (arXiv 2026) | [Paper](https://arxiv.org/pdf/2611.30278.pdf)
 
 ## Updates
 - [2026.11.23] 📣 The paper and code of RigidAnchor are coming soon!
@@ -18,7 +18,7 @@ If you find our repository useful, please consider giving it a star ⭐ and citi
 @article{wang2026rigidanchor,
   title={RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment},
   author={Wang, Bo and Zhu, Dekang and Li, Jian and Meng, Zhipeng and Wang, Bo and Hu, Dewen},
-  journal={arXiv preprint arXiv:26xx.xxxxxx},
+  journal={arXiv preprint arXiv:2611.30278},
   year={2026}
 }
 ```
